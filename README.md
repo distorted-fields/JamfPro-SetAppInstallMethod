@@ -10,6 +10,7 @@ For on-prem customers this could be more easily accomplished (and not to mention
     1. Use Terminal if on macOS.
 1. Fill in data as prompted.
 
+#### API calls eat up server resources, this script will make 1 API call per app. It is advised to use caution before proceeding during heavy traffic times of the day if processing a large number of apps. 
 
 
 ### ---Update 2019-06-19---
